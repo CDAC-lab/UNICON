@@ -4,13 +4,13 @@ This repository contains a jupyter notebook to assist with the dataset.
 
 If you use this dataset for any publicity or project, please cite the following paper: [[1]](#1)
 
-## Information on the complete dataset can be found in  [[1]](#1)
+Detailed Information about the complete dataset can be found in  [[1]](#1)
 
-The data-set is available as a JSON.
+The dataset stored data in CSV format
 
 ## Contacts:
 
-If you want to have more information on the data-set or on how to retrieve full access to the data, please feel free to contact us
+If you want to have more information on the dataset or on how to retrieve full access to the data, please feel free to contact us
 
 | Name | E-Mail |
 | --- | --- |
@@ -19,4 +19,5 @@ If you want to have more information on the data-set or on how to retrieve full 
 | Daswin De Silva | D.DeSilva@latrobe.edu.au |
 
 ## References: 
+
 
