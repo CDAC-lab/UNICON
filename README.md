@@ -22,5 +22,5 @@ If you want to have more information on the dataset or on how to retrieve full a
 
 ## References: 
 
-[1] H. Moraliyage, N. Mills, P. Rathnayake, D. De Silva, and A. Jennings, “UNICON : An Open Dataset of Electricity , Gas and Water Consumption in a Large Multi-Campus University Setting,” 2010.
+[1] H. Moraliyage, N. Mills, P. Rathnayake, D. De Silva, and A. Jennings, “UNICON : An Open Dataset of Electricity , Gas and Water Consumption in a Large Multi-Campus University Setting,” 2022.
 
