@@ -18,6 +18,7 @@ If you want to have more information on the dataset or on how to retrieve full a
 | --- | --- |
 | Centre for Data Analytics And Cognition | CDAC@latrobe.edu.au |
 | Harsha Moraliyage | h.moraliyage@latrobe.edu.au |
+| Nishan Mills | n.mills@latrobe.edu.au |
 | Daswin De Silva | D.DeSilva@latrobe.edu.au |
 
 ## References: 
