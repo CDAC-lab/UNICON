@@ -23,5 +23,5 @@ If you want to have more information on the dataset or on how to retrieve full a
 
 ## References: 
 
-[1] H. Moraliyage, N. Mills, P. Rathnayake, D. De Silva and A. Jennings, "UNICON: An Open Dataset of Electricity, Gas and Water Consumption in a Large Multi-Campus University Setting," 2022 15th International Conference on Human System Interaction (HSI), 2022, pp. 1-8, doi: [10.1109/HSI55341.2022.9869498.](10.1109/HSI55341.2022.9869498.) 
+[1] H. Moraliyage, N. Mills, P. Rathnayake, D. De Silva and A. Jennings, "UNICON: An Open Dataset of Electricity, Gas and Water Consumption in a Large Multi-Campus University Setting," 2022 15th International Conference on Human System Interaction (HSI), 2022, pp. 1-8, [doi:10.1109/HSI55341.2022.9869498.](doi: 10.1109/HSI55341.2022.9869498.) 
 
