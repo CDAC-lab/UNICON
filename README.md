@@ -10,7 +10,7 @@ UNICON is a large-scale open dataset on UNIversity CONsumption of utilities, ele
 
 All the data available in the dataset are stored in CSV format. Detailed Information about the complete dataset can be found in UNICON paper in [[1]](#1)
 
-Dataset location: https://www.kaggle.com/datasets/cdaclab/unicon
+**Dataset location**: https://www.kaggle.com/datasets/cdaclab/unicon
 
 ## Contacts:
 
