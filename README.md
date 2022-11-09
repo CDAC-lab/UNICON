@@ -12,7 +12,9 @@ All the data available in the dataset are stored in CSV format. Detailed Informa
 
 ## Contacts:
 
-If you want to have more information on the dataset or on how to retrieve full access to the data, please feel free to contact us
+If you want to have more information on the dataset or on how to retrieve full access to the data, please feel free to contact us.
+
+Full dataset is also available in Kaggle: https://www.kaggle.com/datasets/cdaclab/unicon
 
 | Name | E-Mail |
 | --- | --- |
